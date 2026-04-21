@@ -1,0 +1,12 @@
+E-Commerce Report
+
+Top Employee:Priya
+Average Salary:66428.57142857143
+Total Sales:244000
+Best Sales Employee ID :1
+
+Department Employee Count:
+HR:2
+Finance:1
+Unknown:1
+IT:3
