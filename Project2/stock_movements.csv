@@ -1,0 +1,10 @@
+product_id,product_name,category,reorder_level,warehouse_id,warehouse_name,movement_type,quantity,movement_date
+1,Laptop,Electronics,10,1,"Central Warehouse",IN,50,2026-05-01
+2,Mouse,Electronics,20,1,"Central Warehouse",IN,100,2026-05-02
+1,Laptop,Electronics,10,1,"Central Warehouse",OUT,40,2026-05-06
+2,Mouse,Electronics,20,1,"Central Warehouse",OUT,85,2026-05-07
+3,Keyboard,Electronics,15,2,"North Warehouse",IN,80,2026-05-03
+5,Desk,Furniture,3,2,"North Warehouse",IN,10,2026-05-05
+3,Keyboard,Electronics,15,2,"North Warehouse",OUT,60,2026-05-08
+4,Chair,Furniture,5,3,"South Warehouse",IN,20,2026-05-04
+4,Chair,Furniture,5,3,"South Warehouse",OUT,18,2026-05-09

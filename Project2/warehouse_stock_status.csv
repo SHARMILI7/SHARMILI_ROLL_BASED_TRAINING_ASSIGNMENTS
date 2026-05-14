@@ -1,0 +1,6 @@
+product_id,product_name,reorder_level,current_stock,reorder_flag,stock_status
+1,Laptop,10,10,Stock OK,Balanced
+2,Mouse,20,15,Reorder Needed,Understocked
+3,Keyboard,15,20,Stock OK,Balanced
+4,Chair,5,2,Reorder Needed,Understocked
+5,Desk,3,10,Stock OK,Overstocked
