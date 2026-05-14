@@ -1,0 +1,6 @@
+student_id,student_name,course_id,course_name,enrollment_date,completion,status
+1,Rahul Sharma,1,Python Basics,2026-05-04,85.0,In Progress
+4,Sneha Patel,1,Python Basics,2026-05-07,100.0,Completed
+2,Priya Reddy,2,Data Engineering,2026-05-05,45.0,Dropped
+5,Aravind Rao,2,Data Engineering,2026-05-08,65.0,In Progress
+3,Arjun Kumar,3,SQL Mastery,2026-05-06,20.0,Dropped
